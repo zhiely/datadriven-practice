@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/neat_goat_9663), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Daily Error Count Change](./practice/sql/daily-error-count-change) | SQL | Medium | 2026-10-27 |
 | [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-09-23 |
 | [The Freshest Record](./practice/sql/the-freshest-record) | SQL | Medium | 2026-09-21 |
 | [The Row Count Surprise](./practice/sql/the-row-count-surprise) | SQL | Easy | 2026-09-21 |
