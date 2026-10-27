@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/neat_goat_9663), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-09-21 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-09-21 |
 | [Active Token Owners in 2026](./practice/sql/active-token-owners-in-year) | SQL | Easy | 2026-09-10 |
 
